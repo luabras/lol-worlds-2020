@@ -1,13 +1,11 @@
-# lol-worlds-2020
+# League of Legends World's 2020
 Colaborative ML models to predict the results of League of Legends Worlds 2020
 
 The datasets are from [Oracle's Elixir](https://oracleselixir.com/) and are structured as follows in the folders:
 
-World's statistics so far:
-datasets/worlds/*.csv
+* World's statistics so far: datasets/worlds/*.csv
 
-Summer playoff statistics:
-datasets/summer-playoffs/name-of-region/*.csv
+* Summer playoff statistics: datasets/summer-playoffs/name-of-region/*.csv
 
 In each folder you have 3 different types of datasets, one with information about the players, another with information about the teams and another with information about the champions.
 

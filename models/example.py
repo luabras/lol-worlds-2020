@@ -31,8 +31,8 @@ Escolha sua opção:
                     7h - Rogue x PSG Talon
                     8h - DAMWON Gaming x JD Gaming
                     9h - Gen.G x LGD Gaming
-                    10h - TSM x Fnatic \n""")
-                back = input("Digite enter para voltar pro menu anterior")
+                    10h - TSM x Fnatic""")
+                back = input("Digite enter para voltar pro menu anterior \n" )
 
 
             elif escolha1 == '2':
@@ -42,8 +42,8 @@ Escolha sua opção:
                     7h - Rogue x DAMWON Gaming
                     8h - PSG Talon x JD Gaming
                     9h - Gen.G x TSM
-                    10h - LGD Gaming x Fnatic \n""")
-                back = input("Digite enter para voltar pro menu anterior")
+                    10h - LGD Gaming x Fnatic""")
+                back = input("Digite enter para voltar pro menu anterior \n")
 
 
             elif escolha1 == '3':
@@ -53,8 +53,8 @@ Escolha sua opção:
                     7h - DAMWON Gaming x PSG Talon
                     8h - JD Gaming x Rogue
                     9h - FlyQuest x Unicorns of Love
-                    10h - Top Esports x DragonX \n""")
-                back = input("Digite enter para voltar pro menu anterior")
+                    10h - Top Esports x DragonX""")
+                back = input("Digite enter para voltar pro menu anterior \n")
 
 
             elif escolha1 == '4':
@@ -64,8 +64,8 @@ Escolha sua opção:
                     7h - DragonX x FlyQuest
                     8h - Top Esports x Unicorns of Love
                     9h - Fnatic x Gen.G
-                    10h - TSM x LGD Gaming \n""")
-                back = input("Digite enter para voltar pro menu anterior")
+                    10h - TSM x LGD Gaming""")
+                back = input("Digite enter para voltar pro menu anterior \n")
 
             elif escolha1 == '5':
                 print("""~ Jogos do dia 08 - Quinta ~
@@ -74,8 +74,8 @@ Escolha sua opção:
                     7h - G2 x Machi Esports
                     8h - Suning x Team Liquid
                     9h - Team Liquid x Machi Esports
-                    10h - Suning x G2 \n""")
-                back = input("Digite enter para voltar pro menu anterior")
+                    10h - Suning x G2""")
+                back = input("Digite enter para voltar pro menu anterior \n")
 
             elif escolha1 == '6':
                 print("""~ Jogos do dia 09 - Sexta ~
@@ -84,8 +84,8 @@ Escolha sua opção:
                     7h - DAMWON Gaming x Rogue
                     8h - JD Gaming x PSG Talon
                     9h - PSG Talon x Rogue
-                    10h - JD Gaming x DAMWON Gaming \n""")
-                back = input("Digite enter para voltar pro menu anterior")
+                    10h - JD Gaming x DAMWON Gaming""")
+                back = input("Digite enter para voltar pro menu anterior \n")
 
             elif escolha1 == '7':
                 print("""~ Jogos do dia 10 - Sábado ~
@@ -94,8 +94,8 @@ Escolha sua opção:
                     7h - TSM x Gen.G
                     8h - Fnatic x LGD Gaming
                     9h - LGD Gaming x TSM
-                    10h - Gen.G x Fnatic \n""")
-                back = input("Digite enter para voltar pro menu anterior")
+                    10h - Gen.G x Fnatic""")
+                back = input("Digite enter para voltar pro menu anterior \n")
 
             elif escolha1 == '0':
                 break
@@ -114,13 +114,13 @@ Escolha sua opção:
                 seed1 = input ("Insira o vencedor do seed 1: ")
                 seed2 = input("Insira o vencedor do seed 2: ")
                 print ("7h - Quartas de Final 1 - {} x {}".format(seed1, seed2))
-                back = input("Digite enter para voltar pro menu anterior")
+                back = input("Digite enter para voltar pro menu anterior \n")
 
             if escolha1 == '2':
                 seed3 = input ("Insira o vencedor do seed 3: ")
                 seed4 = input ("Insira o vencedor do seed 4: ")
                 print ("7h - Quartas de Final 2 - {} x {}" .format(seed3, seed4))
-                back = input("Digite enter para voltar pro menu anterior")
+                back = input("Digite enter para voltar pro menu anterior \n")
 
             if escolha1 == '3':
                 seed5 = input ("Insira o vencedor do seed 5: ")
@@ -132,7 +132,7 @@ Escolha sua opção:
                 seed7 = input ("Insira o vencedor do seed 7: ")
                 seed8 = input ("Insira o vencedor do seed 8: ")
                 print ("7h - Quartas de Final 4 - {} x {}" .format(seed7, seed8))
-                back = input("Digite enter para voltar pro menu anterior")
+                back = input("Digite enter para voltar pro menu anterior \n2")
 
 
 

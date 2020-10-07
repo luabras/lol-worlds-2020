@@ -134,7 +134,16 @@ Escolha sua opção:
                 print ("7h - Quartas de Final 4 - {} x {}" .format(seed7, seed8))
                 back = input("Digite enter para voltar pro menu anterior \n2")
 
-
+    if escolha1 == '3':
+        while True:
+            escolha1 = input("""~ Mostrar Estatísticas dos Times ~
+Escolha sua opção:
+1 - Times do Grupo A 
+2 - Times do Grupo B 
+3 - Times do Grupo C
+4 - Times do Grupo D
+0 - Voltar para o menu anterior
+►  """)
 
 
 
